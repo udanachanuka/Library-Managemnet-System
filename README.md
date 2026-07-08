@@ -1,0 +1,82 @@
+# 📚 Library Management System
+
+![Library Management System](https://img.shields.io/badge/Project-Library%20Management%20System-blue)
+
+## 📌 Project Overview
+
+The **Library Management System** is a Python-based desktop application developed to efficiently manage library book records.  
+The system provides an easy-to-use graphical user interface (GUI) and uses a MySQL database to store and manage book information.
+
+This project helps librarians to maintain book details, update records, view available books, and remove outdated records efficiently.
+
+---
+
+## 🎯 Project Objectives
+
+- To develop a computerized library management system.
+- To reduce manual record keeping.
+- To store book information securely using a database.
+- To provide an easy and user-friendly interface for managing books.
+
+---
+
+## 🚀 Features
+
+### 📖 Book Management
+- ➕ Add new books
+- 👀 View all books
+- ✏️ Update existing book details
+- 🗑️ Delete book records
+
+### 📊 Data Management
+- Display book records in a table format
+- Store data using MySQL database
+- Manage book ID, title, author, category, and quantity
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Programming Language |
+| 🖥️ Tkinter | Graphical User Interface |
+| 🗄️ MySQL | Database Management |
+| 🔗 MySQL Connector | Database Connection |
+
+---
+
+---
+
+## 📸 Application Features
+
+The application provides:
+
+- User-friendly GUI
+- Colorful interface
+- Book management operations
+- Database integration
+
+---
+
+## 🔮 Future Improvements
+
+- 🔍 Search book functionality
+- 🔐 User login system
+- 📊 Dashboard with statistics
+- 📄 Generate reports
+- 🖼️ Add application logo
+
+---
+
+## 👨‍💻 Developer
+
+**Chanuka**
+
+---
+
+## 📄 License
+
+This project is developed for educational purposes.
+
+## 🏗️ System Structure
