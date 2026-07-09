@@ -83,14 +83,24 @@ This project is developed for educational purposes.
 
 ## 📸 Screenshots
 
-### Login Page
+### 1. Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/Screenshot%202026-07-09%20010721.png)
 
 **Description:**
 This is the login page of the Library Management System.
 
+### 2. Dashboard
 
+![Dashboard](Screenshots/Screenshot%202026-07-09%20010843.png)
 
+**Description:**
+This page displays the main dashboard of the Library Management System.
 
+### 3. Book Management
+
+![Book Management](Screenshots/Screenshot%202026-07-09%20010925.png)
+
+**Description:**
+This page is used to manage books by adding, updating, searching, and deleting records.
 
