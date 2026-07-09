@@ -137,10 +137,32 @@ The Dashboard provides a comprehensive overview of the Library Management System
 - Improves the overall performance of library management.
 
   
-### 3. Book Management
+## 4. VS Code Development Environment
 
-![Book Management](Screenshots/Screenshot%202026-07-09%20010925.png)
+![VS Code](Screenshots/Your_VSCode_Screenshot.png)
 
 **Description:**
-This page is used to manage books by adding, updating, searching, and deleting records.
 
+This screenshot shows the Visual Studio Code (VS Code) development environment used to build the Library Management System. The application was developed using Python, with the source code organized into multiple files for better readability and maintenance. VS Code provides features such as syntax highlighting, code completion, debugging, and integrated terminal support, making the development process faster and more efficient. The project is connected to a MySQL database to store and manage library records, ensuring reliable data handling and smooth application performance.
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Main programming language used to develop the application. |
+| Visual Studio Code | Source code editor used for development. |
+| MySQL | Database used to store library records. |
+| Tkinter | GUI framework used to create the desktop application. |
+| Git & GitHub | Version control and project hosting. |
+
+---
+
+## ⭐ Development Features
+
+- Clean and well-organized source code.
+- User-friendly graphical interface.
+- MySQL database connectivity.
+- CRUD (Create, Read, Update, Delete) operations.
+- Easy debugging and code maintenance using VS Code.
