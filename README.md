@@ -91,13 +91,52 @@ This project is developed for educational purposes.
 
 This screenshot shows the main interface of the Library Management System, where users can manage book records efficiently. The interface allows users to enter book details such as Book Title, Author, Category, and Quantity. The system displays all available books in a table with their Book ID and other information. Users can perform essential operations including adding new books, viewing all books, updating existing book records, and deleting unwanted records. The simple and user-friendly design helps librarians manage the library database quickly and accurately while reducing manual record-keeping errors.
 
-### 2. Dashboard
+## 2. Dashboard
 
 ![Dashboard](Screenshots/Screenshot%202026-07-09%20010843.png)
 
 **Description:**
-This page displays the main dashboard of the Library Management System.
 
+The Dashboard provides a comprehensive overview of the Library Management System database. It enables users to monitor and manage all book records stored in the MySQL database through a simple and organized interface. The dashboard displays essential book information, including Book ID, Title, Author, Category, and Quantity, allowing librarians to quickly access and manage records. It supports database operations such as browsing, searching, inserting, updating, deleting, and exporting data. By centralizing all book information, the dashboard improves efficiency, reduces manual record-keeping errors, and ensures secure and reliable management of library resources.
+
+---
+
+## 📋 Database Table Structure
+
+| Field | Description |
+|-------|-------------|
+| Book ID | Unique identification number assigned to each book. |
+| Title | Name of the book. |
+| Author | Name of the author of the book. |
+| Category | Subject or category of the book (e.g., Arts, Media, Mathematics). |
+| Quantity | Number of available copies in the library. |
+
+---
+
+## ⚙️ Dashboard Functions
+
+| Function | Description |
+|----------|-------------|
+| Browse | Displays all book records stored in the database. |
+| Search | Finds a specific book using keywords or filters. |
+| Insert | Adds new book records to the database. |
+| Update | Modifies existing book information. |
+| Delete | Removes unwanted or outdated records. |
+| Export | Exports database records for backup or reporting purposes. |
+
+---
+
+## 🚀 Benefits
+
+- Provides centralized management of library records.
+- Improves the accuracy of book information.
+- Reduces manual paperwork and human errors.
+- Allows quick searching and retrieval of books.
+- Supports efficient database maintenance.
+- Ensures secure storage of library data.
+- Improves the overall performance of library management.
+
+  
 ### 3. Book Management
 
 ![Book Management](Screenshots/Screenshot%202026-07-09%20010925.png)
