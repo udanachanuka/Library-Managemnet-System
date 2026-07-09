@@ -83,13 +83,12 @@ This project is developed for educational purposes.
 
 ## 📸 Screenshots
 
-### Home Page
+### Login Page
 
-![Home Page](image-link)
+![Login Page](screenshots/login.png)
 
 **Description:**
-This is the home page of the Library Management System.
-
+This is the login page of the Library Management System.
 
 
 
