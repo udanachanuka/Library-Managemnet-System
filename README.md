@@ -83,12 +83,13 @@ This project is developed for educational purposes.
 
 ## 📸 Screenshots
 
-### 1. Login Page
+### 1. Book Management Page
 
 ![Login Page](Screenshots/Screenshot%202026-07-09%20010721.png)
 
 **Description:**
-This is the login page of the Library Management System.
+
+This screenshot shows the main interface of the Library Management System, where users can manage book records efficiently. The interface allows users to enter book details such as Book Title, Author, Category, and Quantity. The system displays all available books in a table with their Book ID and other information. Users can perform essential operations including adding new books, viewing all books, updating existing book records, and deleting unwanted records. The simple and user-friendly design helps librarians manage the library database quickly and accurately while reducing manual record-keeping errors.
 
 ### 2. Dashboard
 
