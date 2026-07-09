@@ -139,7 +139,7 @@ The Dashboard provides a comprehensive overview of the Library Management System
   
 ## 4. VS Code Development Environment
 
-![VS Code](Screenshots/Your_VSCode_Screenshot.png)
+![VS Code](Screenshots/Screenshot 2026-07-09 010925.png)
 
 **Description:**
 
