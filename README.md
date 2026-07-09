@@ -80,3 +80,18 @@ The application provides:
 This project is developed for educational purposes.
 
 ## 🏗️ System Structure
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](image-link)
+
+**Description:**
+This is the home page of the Library Management System.
+
+
+
+
+
+
