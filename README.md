@@ -137,7 +137,7 @@ The Dashboard provides a comprehensive overview of the Library Management System
 - Improves the overall performance of library management.
 
   
-## 4. VS Code Development Environment
+## 3. VS Code Development Environment
 
 ![VS Code](Screenshots/Screenshot%202026-07-09%20010925.png)
 
